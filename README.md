@@ -1,1 +1,4 @@
-# rails_docker
+# railsのsqliteでの開発用コンテナ
+
+- ./app/がボリューム
+
